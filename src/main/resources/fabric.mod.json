@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "breakfree",
+  "version": "${version}",
+  "name": "Break Free",
+  "description": "Allows you to continue breaking blocks when you switch items.",
+  "authors": ["JustAPotota"],
+  "contact": {},
+  "license": "unlicense",
+  "icon": "assets/breakfree/icon.png",
+  "environment": "client",
+  "entrypoints": {
+  },
+  "mixins": [
+    "breakfree.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.6",
+    "fabric": "*",
+    "minecraft": "1.17.1"
+  }
+}
