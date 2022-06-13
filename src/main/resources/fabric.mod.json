@@ -5,7 +5,11 @@
   "name": "Break Free",
   "description": "Allows you to continue breaking blocks when you switch items.",
   "authors": ["JustAPotota"],
-  "contact": {},
+  "contact": {
+    "homepage": "https://modrinth.com/mod/breakfree",
+    "sources": "https://github.com/JustAPotota/Break-Free",
+    "issues": "https://github.com/JustAPotota/Break-Free/issues"
+  },
   "license": "unlicense",
   "icon": "assets/breakfree/icon.png",
   "environment": "client",
