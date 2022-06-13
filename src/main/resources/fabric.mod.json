@@ -7,8 +7,8 @@
   "authors": ["JustAPotota"],
   "contact": {
     "homepage": "https://modrinth.com/mod/breakfree",
-    "sources": "https://github.com/JustAPotota/Break-Free",
-    "issues": "https://github.com/JustAPotota/Break-Free/issues"
+    "sources": "https://github.com/JustAPotota/fabric-breakfree",
+    "issues": "https://github.com/JustAPotota/fabric-breakfree/issues"
   },
   "license": "unlicense",
   "icon": "assets/breakfree/icon.png",
