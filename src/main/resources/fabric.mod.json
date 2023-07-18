@@ -3,8 +3,8 @@
   "id": "breakfree",
   "version": "${version}",
   "name": "Break Free",
-  "description": "Allows you to continue breaking blocks when you switch items.",
-  "authors": ["JustAPotota"],
+  "description": "Allows you to keep breaking blocks when you switch tools.",
+  "authors": ["Potota"],
   "contact": {
     "homepage": "https://modrinth.com/mod/breakfree",
     "sources": "https://github.com/JustAPotota/fabric-breakfree",
@@ -19,9 +19,9 @@
     "breakfree.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=0.11.3",
+    "fabricloader": ">=0.14.21",
     "fabric": "*",
-    "minecraft": "1.19.x",
+    "minecraft": "1.20.x",
     "java": ">=17"
   }
 }
