@@ -1,4 +1,4 @@
-package io.gtihub.justapotota.breakfree.mixin;
+package io.github.justapotota.breakfree.mixin;
 
 import net.minecraft.client.network.ClientPlayerInteractionManager;
 import net.minecraft.item.ItemStack;
