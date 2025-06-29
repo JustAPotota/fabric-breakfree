@@ -19,8 +19,8 @@
     "breakfree.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=0.15.10",
-    "minecraft": "1.21.x",
+    "fabricloader": ">=0.16.10",
+    "minecraft": "${minecraft_version}",
     "java": ">=21"
   }
 }
