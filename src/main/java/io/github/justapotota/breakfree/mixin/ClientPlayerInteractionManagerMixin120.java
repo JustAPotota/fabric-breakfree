@@ -8,7 +8,7 @@ import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.ModifyVariable;
 
 @Mixin(ClientPlayerInteractionManager.class)
-public class ClientPlayerInteractionManagerMixin {
+public class ClientPlayerInteractionManagerMixin120 {
     @Shadow private ItemStack selectedStack;
 
     @ModifyVariable(method = "isCurrentlyBreaking", at = @At("STORE"))
